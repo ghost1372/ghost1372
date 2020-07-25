@@ -1,6 +1,5 @@
 - 🔭 I’m currently working on Open Source Projects
 - 🌱 I’m currently learning WPF
-- 🏙 I work in a school as an elementary school teacher
 - 📫 How to reach me: 
 
 Email: mahdidvb72@gmail.com, mahdi.hosseini@iauz.ac.ir
