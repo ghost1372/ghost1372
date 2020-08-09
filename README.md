@@ -10,7 +10,14 @@
 
      :heavy_check_mark: QQ: 2273757498
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true" /></p>
+<a href="https://github.com/ghost1372">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/ghost1372">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372" />
+</a>
+
+<br>
 
 | [Visual Studio](https://visualstudio.microsoft.com/) [![Visual Studio](https://raw.githubusercontent.com/HandyOrg/HandyOrgResource/master/HandyControl/Resources/vs2019_logo.png)](https://visualstudio.microsoft.com/)  | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) <img height=90px src="https://www.erunga.net/wp-content/uploads/visual-csharp-logo.png">  | [.Net Core](https://github.com/dotnet/core) <img height=70px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">  | <b>[HandyControls](https://github.com/ghost1372/handyControls)</b> [![HandyControls](https://raw.githubusercontent.com/HandyOrg/HandyOrgResource/master/HandyControl/Resources/icon.png)](https://github.com/ghost1372/handyControls)  |
 |---|---|---|---|
