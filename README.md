@@ -17,6 +17,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&layout=compact&langs_count=12&hide=html,css" />
 </a>
 
+
+<br>
 <br>
 <p align="center">
 	<b>🙌 Use <a href="https://blockchain.com/btc/payment_request?address=19cmmVkh4ZsEdrcumbRMvQXmCFfw8nAbX5&amount=0.00041825&message=Buy a cup of tea">donations</a> to help support <b>your</b> projects! 🙌</b>
