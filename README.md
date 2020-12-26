@@ -1,10 +1,8 @@
 <h1 align="center"> Hi There 👋 I'm Mahdi Hosseini</h1>
 
-- 👩‍💻 I’m currently Developing Windows Apps with WPF and Mobile Apps with Kotlin
+- 👩‍💻 I’m currently Developing Windows and Mobile Apps with WPF and Kotlin
 - 👨‍🏫 I’m a Teacher in Primary School
-- 🏴 I’m from Iran and my Language is Persian and Turkish
-- 🗣 I’m familiar with English, Arabic and Turkish (Turkey) languages and I have the ability to read, write and speak them
-- 🤟 I’m a Microsoft fan
+- 🏴 I’m from Iran and i speak Persian and Turkish
 - 🤙 How to reach me: 
      :heavy_check_mark: Email: mahdidvb72@gmail.com, mahdi.hosseini@iauz.ac.ir 
 
