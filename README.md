@@ -1,12 +1,11 @@
 <h1 align="center"> Hi There 👋 I'm Mahdi Hosseini</h1>
 
-- 👩‍💻 I’m currently Developing Windows and Mobile Apps with WPF and Kotlin
+- 👩‍💻 I’m currently Developing Windows and Mobile Apps with C#/WPF and Kotlin
 - 👨‍🏫 I’m a Teacher in Primary School
-- 🏴 I’m from Iran and i speak Persian and Turkish
 - 🤙 How to reach me: 
      :heavy_check_mark: Email: mahdidvb72@gmail.com, mahdi.hosseini@iauz.ac.ir 
 
-     :heavy_check_mark: Telegram: @KlausM72 
+     :heavy_check_mark: Telegram: [@KlausM72](https://t.me/KlausM72) 
 
 <a href="https://github.com/ghost1372">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true&count_private=true&include_all_commits=true" />
@@ -22,8 +21,6 @@
 	<b>🙌 Use <a href="https://blockchain.com/btc/payment_request?address=19cmmVkh4ZsEdrcumbRMvQXmCFfw8nAbX5&amount=0.00041825&message=Buy a cup of tea">donations</a> to help support <b>your</b> projects! 🙌</b>
 </p>
 <br>
-
-### Knowledge
 
 [![adobe_photoshop_96px](https://user-images.githubusercontent.com/9213496/100453274-f6af9e00-30cf-11eb-9007-d7264c399f8f.png)](https://www.adobe.com/products/photoshop.html) 
 [![as](https://user-images.githubusercontent.com/9213496/100454663-9a9a4900-30d2-11eb-8e49-8949f91033f2.png)](https://developer.android.com/studio)
