@@ -1,6 +1,15 @@
 <h1 align="center"> Hi There 👋 I'm Mahdi Hosseini</h1>
 
-- 👩‍💻 I’m currently Developing Windows and Mobile Apps with C#/WPF and Kotlin
+
+<p align="center">
+	<b>🙌 Donate Bitcoin with <a href="https://link.trustwallet.com/send?coin=0&address=bc1qzs4kt4aeqym6gsde669g5rksv4swjhzjqqp23a">Trust</a>🙌</b><br>
+	<b>🙌 Donate ETH with <a href="https://link.trustwallet.com/send?coin=60&address=0x40Db4476c1D498b167f76A2c7ED9D45b65eb5d0C">Trust</a>🙌</b><br><br>
+	<b>🙌 Bitcoin: bc1qzs4kt4aeqym6gsde669g5rksv4swjhzjqqp23a<br></b>
+	<b>🙌 ETH: 0x40Db4476c1D498b167f76A2c7ED9D45b65eb5d0C</b>
+</p>
+<br>
+
+- 👩‍💻 I’m currently Developing Windows Apps with C# WinUI 3 and WPF
 - 👨‍🏫 I’m a Teacher in Primary School
 - 🤙 How to reach me: 
 
@@ -14,13 +23,7 @@
 <a href="https://github.com/ghost1372">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&layout=compact&langs_count=12&hide=html,css" />
 </a>
-
-
 <br>
-<br>
-<p align="center">
-	<b>🙌 Use <a href="https://blockchain.com/btc/payment_request?address=19cmmVkh4ZsEdrcumbRMvQXmCFfw8nAbX5&amount=0.00041825&message=Buy a cup of tea">donations</a> to help support <b>your</b> projects! 🙌</b>
-</p>
 <br>
 
 [<img src="https://user-images.githubusercontent.com/9213496/100453274-f6af9e00-30cf-11eb-9007-d7264c399f8f.png" alt="alt text" width="48" height="48">](https://www.adobe.com/products/photoshop.html) 
