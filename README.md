@@ -9,13 +9,13 @@
 </p>
 <br>
 
-- 👩‍💻 I’m currently Developing Windows Apps with C# WinUI 3 and WPF
+- 👩‍💻 I’m currently Developing Windows Apps with WindowsAppSDK/WinUI 3
 - 👨‍🏫 I’m a Teacher in Primary School
 - 🤙 How to reach me: 
 
      :heavy_check_mark: Email: mahdidvb72@gmail.com, mahdi.hosseini@iauz.ac.ir 
 
-     :heavy_check_mark: Telegram: [@KlausM72](https://t.me/KlausM72) 
+     :heavy_check_mark: Telegram: [@MMahdi72](https://t.me/MMahdi72) 
 
 <a href="https://github.com/ghost1372">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true&count_private=true&include_all_commits=true" />
@@ -25,6 +25,8 @@
 </a>
 <br>
 <br>
+
+![Mahdi's github trophy](https://github-profile-trophy.vercel.app/?username=ghost1372&row=1)
 
 [<img src="https://user-images.githubusercontent.com/9213496/100453274-f6af9e00-30cf-11eb-9007-d7264c399f8f.png" alt="alt text" width="48" height="48">](https://www.adobe.com/products/photoshop.html) 
 [<img src="https://user-images.githubusercontent.com/9213496/100454663-9a9a4900-30d2-11eb-8e49-8949f91033f2.png" alt="alt text" width="48" height="48">](https://developer.android.com/studio)
