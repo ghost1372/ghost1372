@@ -58,3 +58,5 @@
 [<img src="https://user-images.githubusercontent.com/9213496/100453351-04652380-30d0-11eb-82b7-2285ee259d96.png" alt="alt text" width="48" height="48">](https://dotnet.microsoft.com/apps/xamarin)
 [<img src="https://user-images.githubusercontent.com/9213496/100453354-04652380-30d0-11eb-87de-a577acd2f62f.png" alt="alt text" width="48" height="48">](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/fundamentals/xaml?view=netdesktop-5.0)
 [<img src="https://user-images.githubusercontent.com/7389110/76443001-aa91c180-63b9-11ea-99c1-2ef5362479ce.png" alt="alt text" width="48" height="48">]([https://docs.microsoft.com/en-us/dotnet/desktop/wpf/fundamentals/xaml?view=netdesktop-5.0](https://learn.microsoft.com/en-us/windows/windows-app-sdk/api/winrt/microsoft.ui.xaml.controls))
+
+![metrics](https://raw.githubusercontent.com/ghost1372/ghost1372/master/metrics.plugin.topics.icons.svg)
