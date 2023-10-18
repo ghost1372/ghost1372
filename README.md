@@ -17,6 +17,15 @@
 
      :heavy_check_mark: Telegram: [@MMahdi72](https://t.me/MMahdi72) 
 
+My apps in the Microsoft Store:
+
+<a href="https://apps.microsoft.com/search/publisher?name=Mahdi+Hosseini&hl=en-us&gl=PL">
+  <img align="center" src="https://get.microsoft.com/images/en-us%20dark.svg" width="250" />
+</a>
+
+<br>
+<br>
+
 <a href="https://github.com/ghost1372">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
