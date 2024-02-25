@@ -21,6 +21,9 @@ My apps in the Microsoft Store:
 <br>
 <br>
 
+[![Mahdi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ghost1372)](https://github.com/ghost1372)
+
+
 <a href="https://github.com/ghost1372">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
