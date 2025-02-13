@@ -1,9 +1,14 @@
-<h1 align="center"> Hi There 👋 I'm Mahdi Hosseini from 🔥 IRAN/Persia 🔥</h1>
+<h1 align="center"> Hi There 👋 I'm Mahdi Hosseini from 🔥 IRAN🚀Persia 🔥</h1>
 
 <p align="center">
 🔥🚀 <b>I’m Developing Windows Apps with WindowsAppSDK/WinUI 3/WPF</b> 🚀🔥
 <br>
 🧑‍🏫 <b>I’m a Teacher in Primary School</b> 🧑‍🏫	
+<br>
+<br>
+<img src="https://github.com/user-attachments/assets/95dc5d13-f0fb-49aa-805a-bc7cd42cf782" alt="alt text" width="256" height="121">
+<br>
+<b>Good Thoughts, Good Words, and Good Deeds</b>
 </p>
 
 ---
