@@ -8,17 +8,6 @@
 
 ---
 
-### 🌟 Support My Work! 🌟
-> [!IMPORTANT]
-> 🌟 I pour my heart and soul into creating useful apps and tools. If you’ve found my work helpful or interesting, consider supporting me by making a donation. 🌟
-
-|Trust Wallet|Address|
-|-|-|
-|<a href="https://link.trustwallet.com/send?coin=0&address=bc1qzs4kt4aeqym6gsde669g5rksv4swjhzjqqp23a">Bitcoin</a>|bc1qzs4kt4aeqym6gsde669g5rksv4swjhzjqqp23a|
-|<a href="https://link.trustwallet.com/send?coin=60&address=0x40Db4476c1D498b167f76A2c7ED9D45b65eb5d0C">ETH</a>|0x40Db4476c1D498b167f76A2c7ED9D45b65eb5d0C|
-
----
-
 > [!TIP]
 > You can find My apps in the Microsoft Store
 <a href="https://apps.microsoft.com/search/publisher?name=Mahdi+Hosseini&hl=en-us&gl=PL">
@@ -56,17 +45,12 @@
 [<img src="https://user-images.githubusercontent.com/9213496/100453347-03cc8d00-30d0-11eb-90f6-dde0e5a6136c.png" alt="alt text" width="48" height="48">](https://wordpress.org/download/)
 [<img src="https://user-images.githubusercontent.com/9213496/100453351-04652380-30d0-11eb-82b7-2285ee259d96.png" alt="alt text" width="48" height="48">](https://dotnet.microsoft.com/apps/xamarin)
 [<img src="https://user-images.githubusercontent.com/9213496/100453354-04652380-30d0-11eb-87de-a577acd2f62f.png" alt="alt text" width="48" height="48">](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/fundamentals/xaml?view=netdesktop-5.0)
-[<img src="https://user-images.githubusercontent.com/7389110/76443001-aa91c180-63b9-11ea-99c1-2ef5362479ce.png" alt="alt text" width="48" height="48">]([https://docs.microsoft.com/en-us/dotnet/desktop/wpf/fundamentals/xaml?view=netdesktop-5.0](https://learn.microsoft.com/en-us/windows/windows-app-sdk/api/winrt/microsoft.ui.xaml.controls))
+[<img src="https://raw.githubusercontent.com/ghost1372/DevWinUI/refs/heads/main/VSIX/DevWinUI_Template/WinUIApp/Assets/AppIcon.png" alt="alt text" width="48" height="48">](https://learn.microsoft.com/en-us/windows/windows-app-sdk/api/winrt/microsoft.ui.xaml.controls)
 
 ---
 
-[![Mahdi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ghost1372)](https://github.com/ghost1372)
-
 <a href="https://github.com/ghost1372">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/ghost1372">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&layout=compact&langs_count=12&hide=html,css" />
 </a>
 <br>
 <br>
