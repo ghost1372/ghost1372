@@ -21,7 +21,7 @@
 
 ---
 
-![SKILLS](https://skills-icons.vercel.app/api/icons?i=androidstudio,rider,navicat,sqlite,sqlserver,bing,edge,msdos,microsoftcopilot,azure,powershell,windows,dotnet,vscode,visualstudio,stackoverflow,c,cpp,csharp,cmake,qtwidgets,arduino,raspberrypi,regex,git,gitkraken,github,kotlin,python,java,typescript,css,js,html,npm,nodejs,hexo,linux,ubuntu,debian,kali,bash,wordpress,ps,camtasia,md,telegram,chatgpt,ollama&perline=15)
+![SKILLS](https://skills-icons.vercel.app/api/icons?i=androidstudio,rider,navicat,sqlite,sqlserver,bing,edge,msdos,microsoftcopilot,azure,powershell,windows,dotnet,winui,wasdk,vscode,visualstudio,stackoverflow,c,cpp,csharp,xaml,nuget,cakebuild,handycontrols,cmake,qtwidgets,arduino,raspberrypi,regex,git,gitkraken,github,kotlin,python,java,typescript,css,js,html,npm,nodejs,hexo,linux,ubuntu,debian,kali,bash,wordpress,ps,camtasia,md,telegram,chatgpt,ollama&perline=15)
 
 ---
 
