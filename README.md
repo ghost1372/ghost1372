@@ -46,21 +46,6 @@
 
 ---
 
-## � Quick Overview
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Windows%20Apps-2ea043?logo=windows&logoColor=white" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Stack-WinUI%203%20%7C%20WPF-ff69b4?logo=.net&logoColor=white" alt="Stack badge" />
-  <img src="https://img.shields.io/badge/Teaching-Primary%20School-1f6feb?logo=google-classroom&logoColor=white" alt="Teaching badge" />
-  <img src="https://img.shields.io/badge/Store-Microsoft%20Store-0078D4?logo=microsoft" alt="Store badge" />
-</div>
-
-<p align="center">
-  <b>Small tools, big ideas, and a strong focus on quality.</b>
-</p>
-
----
-
 ## 🌟 Current Focus
 
 - Building polished Windows apps with modern UI.
