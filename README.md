@@ -1,31 +1,76 @@
-<h1 align="center"> Hi There 👋 I'm Mahdi Hosseini from 🔥 IRAN🚀Persia 🔥</h1>
+<h1 align="center">
+  Hi there, I'm Mahdi Hosseini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
+</h1>
 
 <p align="center">
-🔥🚀 <b>I’m Developing Windows Apps with WindowsAppSDK/WinUI 3/WPF</b> 🚀🔥
-<br>
-🧑‍🏫 <b>I’m a Teacher in Primary School</b> 🧑‍🏫	
-<br>
-<br>
-<img src="https://github.com/user-attachments/assets/95dc5d13-f0fb-49aa-805a-bc7cd42cf782" alt="alt text" width="256" height="121">
-<br>
-<b>Good Thoughts, Good Words, and Good Deeds</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Windows+App+Developer;WinUI+3+%7C+WPF+Enthusiast;Teacher+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>Crafting modern desktop experiences with Windows App SDK, WinUI 3, and WPF.</b><br>
+  I enjoy turning ideas into useful tools, sharing knowledge, and making software that feels polished and human.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/95dc5d13-f0fb-49aa-805a-bc7cd42cf782" alt="Mahdi's showcase" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghost1372&style=flat-square&color=blueviolet" alt="profile views" />
 </p>
 
 ---
 
-> [!TIP]
-> You can find My apps in the Microsoft Store
+## 🚀 About Me
+
+- 🇮🇷 Based in Iran, building apps with passion.
+- 🧑‍🏫 Teacher in a primary school, developer by heart.
+- 🛠️ Focused on Windows desktop apps, polished UI, and clean architecture.
+- 💡 Motto: “Good thoughts, good words, and good deeds.”
+
+---
+
+## 🧰 Tech Stack
+
+![Skills](https://skills-icons.vercel.app/api/icons?i=androidstudio,rider,navicat,sqlite,sqlserver,bing,edge,msdos,microsoftcopilot,azure,powershell,windows,dotnet,winui,wasdk,vscode,visualstudio,stackoverflow,c,cpp,csharp,xaml,nuget,cakebuild,handycontrols,cmake,qtwidgets,arduino,raspberrypi,regex,git,gitkraken,github,kotlin,python,java,typescript,css,js,html,npm,nodejs,hexo,linux,ubuntu,debian,kali,bash,wordpress,ps,camtasia,md,telegram,chatgpt,ollama&perline=15)
+
+---
+
+## 📦 Featured
+
+> You can find my apps in the Microsoft Store.
+
 <a href="https://apps.microsoft.com/search/publisher?name=Mahdi+Hosseini&hl=en-us&gl=PL">
-  <img align="center" src="https://get.microsoft.com/images/en-us%20dark.svg" width="250" />
+  <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="250" alt="Microsoft Store" />
 </a>
 
 ---
 
-![SKILLS](https://skills-icons.vercel.app/api/icons?i=androidstudio,rider,navicat,sqlite,sqlserver,bing,edge,msdos,microsoftcopilot,azure,powershell,windows,dotnet,winui,wasdk,vscode,visualstudio,stackoverflow,c,cpp,csharp,xaml,nuget,cakebuild,handycontrols,cmake,qtwidgets,arduino,raspberrypi,regex,git,gitkraken,github,kotlin,python,java,typescript,css,js,html,npm,nodejs,hexo,linux,ubuntu,debian,kali,bash,wordpress,ps,camtasia,md,telegram,chatgpt,ollama&perline=15)
+## � Quick Overview
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Windows%20Apps-2ea043?logo=windows&logoColor=white" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Stack-WinUI%203%20%7C%20WPF-ff69b4?logo=.net&logoColor=white" alt="Stack badge" />
+  <img src="https://img.shields.io/badge/Teaching-Primary%20School-1f6feb?logo=google-classroom&logoColor=white" alt="Teaching badge" />
+  <img src="https://img.shields.io/badge/Store-Microsoft%20Store-0078D4?logo=microsoft" alt="Store badge" />
+</div>
+
+<p align="center">
+  <b>Small tools, big ideas, and a strong focus on quality.</b>
+</p>
 
 ---
 
-<a href="https://github.com/ghost1372">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true&count_private=true&include_all_commits=true" />
-</a>
-<br>
+## 🌟 Current Focus
+
+- Building polished Windows apps with modern UI.
+- Exploring WinUI 3 and Windows App SDK.
+- Creating practical tools that feel useful and delightful.
+
+---
+
+## 🤝 Connect
+
+- GitHub: [@ghost1372](https://github.com/ghost1372)
+- Microsoft Store: [Mahdi Hosseini](https://apps.microsoft.com/search/publisher?name=Mahdi+Hosseini&hl=en-us&gl=PL)
+
