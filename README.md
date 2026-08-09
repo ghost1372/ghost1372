@@ -15,10 +15,6 @@
   <img src="https://github.com/user-attachments/assets/95dc5d13-f0fb-49aa-805a-bc7cd42cf782" alt="Mahdi's showcase" width="420" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghost1372&style=flat-square&color=blueviolet" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
