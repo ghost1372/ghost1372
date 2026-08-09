@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Windows+App+Developer;WinUI+3+%7C+WPF+Enthusiast;Teacher+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Windows+App+Developer;WinUI+3+%7C+WPF+Enthusiast;Teacher+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
